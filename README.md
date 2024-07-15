@@ -1,4 +1,4 @@
-For APIs - demo for github webhook trigger2
+For APIs - demo for github webhook trigger
 
 # Run test
 ```
